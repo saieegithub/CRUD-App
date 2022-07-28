@@ -1,0 +1,34 @@
+.edit-page{
+    margin:0 auto ;
+    color: #fff;
+
+}
+.edit-container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    background: linear-gradient(90deg, rgb(19, 19, 189) 0%, rgb(1, 53, 24) 56%, rgb(255, 0, 179) 86%);
+}
+.edit-inner{
+    width: 80%;
+    height: 60vh;
+    margin:0 auto ;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    align-content: center;
+ 
+}
+.row input{
+    width: 60%;
+    height: 50px;
+    margin:10px auto ;
+}
+ /* .btn-update{
+    
+
+} */
+
+
+
+

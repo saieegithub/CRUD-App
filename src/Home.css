@@ -1,0 +1,8 @@
+.home-container{
+    width: 100%;
+    height: fit-content;
+    background: linear-gradient(90deg, rgb(128, 128, 238) 0%, rgba(175,17,149,1) 56%, rgba(0,212,255,1) 86%);
+}
+@media(max-width:541px){
+    
+}
